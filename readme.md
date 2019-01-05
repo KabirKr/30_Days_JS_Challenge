@@ -9,3 +9,4 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 3. Day 3: Working with css variables
 4. Day 4: Array Cardio Day 1
 5. Day 5: Flex Panel Gallery
+6. Day 6: Type Ahead
