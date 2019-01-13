@@ -15,3 +15,4 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 9. Day 9: Dev Tools Domination
 10. Day 10: Hold Shift and Check Checkboxes
 11. Day 11: Custom Video Player
+12. Day 12: Key Sequence Detection
