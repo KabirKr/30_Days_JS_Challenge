@@ -10,3 +10,8 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 4. Day 4: Array Cardio Day 1
 5. Day 5: Flex Panel Gallery
 6. Day 6: Type Ahead
+7. Day 7: Array Cardio Day 2
+8. Day 8: Fun with HTML canvas
+9. Day 9: Dev Tools Domination
+10. Day 10: Hold Shift and Check Checkboxes
+11. Day 11: Custom Video Player
