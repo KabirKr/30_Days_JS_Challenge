@@ -18,3 +18,5 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 12. Day 12: Key Sequence Detection
 13. Slide in on Scroll
 14. JavaScript References VS Copying
+15. LocalStorage and Event delegation
+16. Mouse Move Shadow
