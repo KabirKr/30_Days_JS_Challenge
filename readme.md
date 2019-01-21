@@ -22,3 +22,4 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 16. Mouse Move Shadow
 17. Sort without Articles
 18. Adding Up times with Reduce
+19. Webcam Fun
