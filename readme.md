@@ -23,3 +23,6 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 17. Sort without Articles
 18. Adding Up times with Reduce
 19. Webcam Fun
+20. Speech Detection
+21.
+22. Follow Along Link Highlighter
