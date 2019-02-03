@@ -16,13 +16,18 @@ _30 Day Vanilla JS Coding Challenge by Wes Bos_
 10. Day 10: Hold Shift and Check Checkboxes
 11. Day 11: Custom Video Player
 12. Day 12: Key Sequence Detection
-13. Slide in on Scroll
-14. JavaScript References VS Copying
-15. LocalStorage and Event delegation
-16. Mouse Move Shadow
-17. Sort without Articles
-18. Adding Up times with Reduce
-19. Webcam Fun
-20. Speech Detection
-21.
-22. Follow Along Link Highlighter
+13. Day 13: Slide in on Scroll
+14. Day 14: JavaScript References VS Copying
+15. Day 15: LocalStorage and Event delegation
+16. Day 16: Mouse Move Shadow
+17. Day 17: Sort without Articles
+18. Day 18: Adding Up times with Reduce
+19. Day 19: Webcam Fun
+20. Day 20: Speech Detection
+21. Day 21:
+22. Day 22: Follow Along Link Highlighter
+23. Day 23: Speech Synthesis
+24. Day 24: Sticky Nav
+25. Day 25: Event Capture, Event Propagation, Bubbling
+26. Day 26: Strip follow along nav
+27. Day 27: Click and Drag
